@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./defranciaecomme00gaffgoog_0007.png"; bbox 0 0 3359 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 321 1311 1341 1398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 321 1311 1341 1398">
+     <span class='ocr_line' id='line_1_1' title="bbox 321 1311 1341 1398; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 321 1311 709 1397; x_wconf 85' lang='lat' dir='ltr'><strong>ERUDITISSIMO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 753 1311 1068 1398; x_wconf 80' lang='lat' dir='ltr'><strong>STUDIORUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1113 1312 1341 1398; x_wconf 80' lang='lat' dir='ltr'><strong>MEORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 715 1669 954 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 715 1669 954 1755">
+     <span class='ocr_line' id='line_1_2' title="bbox 715 1669 954 1755; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 715 1669 954 1755; x_wconf 75' lang='lat' dir='ltr'>FAUTORI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 683 2887 1098 2985">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 683 2887 1098 2985">
+     <span class='ocr_line' id='line_1_3' title="bbox 683 2887 1098 2985; baseline -0.005 -1"><span class='ocrx_word' id='word_1_5' title='bbox 683 2931 752 2984; x_wconf 80' lang='lat' dir='ltr'><strong>Hoc</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 778 2930 996 2985; x_wconf 70' lang='lat' dir='ltr'>opuscuwn</span> <span class='ocrx_word' id='word_1_7' title='bbox 1095 2887 1098 2893; x_wconf 39' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 751 3285 926 3348">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 751 3285 926 3348">
+     <span class='ocr_line' id='line_1_4' title="bbox 751 3285 926 3348; baseline -0.006 -1"><span class='ocrx_word' id='word_1_8' title='bbox 751 3285 791 3347; x_wconf 92' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 819 3285 858 3347; x_wconf 91' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 886 3286 926 3348; x_wconf 92' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 575 3622 1087 3679">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 575 3622 1087 3679">
+     <span class='ocr_line' id='line_1_5' title="bbox 575 3622 1087 3679; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 575 3622 735 3679; x_wconf 71' lang='lat' dir='ltr'><strong>PAUL</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 773 3622 1087 3678; x_wconf 71' lang='lat' dir='ltr'><strong>GAFFAREL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1684 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1684 5142">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1684 5142; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1684 5142; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
